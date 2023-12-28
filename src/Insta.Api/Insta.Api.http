@@ -1,0 +1,6 @@
+@Insta.Api_HostAddress = http://localhost:5287
+
+GET {{Insta.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
